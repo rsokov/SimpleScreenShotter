@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="SimpleScreenShotter:jar">
+  <artifact type="jar" build-on-make="true" name="SimpleScreenShotter:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/SimpleScreenShotter_jar</output-path>
     <root id="archive" name="SimpleScreenShotter.jar">
       <element id="module-output" name="SimpleScreenShotter" />

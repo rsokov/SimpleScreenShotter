@@ -15,7 +15,7 @@ import java.text.SimpleDateFormat;
 
 public class ScreenShotSender extends Thread {
 
-    String ACCESS_TOKEN = "rXjoCpJ0MLAAAAAAAAAACwcjmLC5qgS10uNm0aNStdgWiV4grnFonefZ1rbmqCI5";
+    String ACCESS_TOKEN = "-uZw9qhyPNfY";
     SimpleDateFormat formatter = new SimpleDateFormat("yyyyMMdd_HHmmss");
     BufferedImage screenShot = null;
     DbxRequestConfig config = DbxRequestConfig.newBuilder("dropbox/java-tutorial").build();
